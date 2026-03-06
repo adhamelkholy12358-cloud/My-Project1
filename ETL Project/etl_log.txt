@@ -1,0 +1,24 @@
+2026-03-06 17:13:17,515 - --- ETL JOB STARTED ---
+2026-03-06 17:13:17,515 - ETL Failed: No valid CSV or JSON files found in 'input_data/'
+2026-03-06 19:33:20,515 - --- ETL JOB STARTED ---
+2026-03-06 19:33:20,515 - ETL Failed: No valid CSV or JSON files found in 'input_data/'
+2026-03-06 19:33:26,431 - --- ETL JOB STARTED ---
+2026-03-06 19:33:26,431 - ETL Failed: No valid CSV or JSON files found in 'input_data/'
+2026-03-06 19:34:17,359 - --- ETL JOB STARTED ---
+2026-03-06 19:34:17,390 - Successfully read CSV: input_data\raw_sales_data.csv
+2026-03-06 19:34:17,401 - Successfully read JSON: input_data\raw_sales_data.json
+2026-03-06 19:34:17,403 - Dropped 1 rows due to missing price.
+2026-03-06 19:34:17,404 - Data transformation complete.
+2026-03-06 19:34:17,407 - --- JOB FINISHED SUCCESS: Saved to output_data/clean_data.csv ---
+2026-03-06 20:12:34,396 - --- ETL JOB STARTED ---
+2026-03-06 20:12:34,398 - Successfully read CSV: input_data\raw_sales_data.csv
+2026-03-06 20:12:34,402 - Successfully read JSON: input_data\raw_sales_data.json
+2026-03-06 20:12:34,404 - Dropped 1 rows due to missing price.
+2026-03-06 20:12:34,405 - Data transformation complete.
+2026-03-06 20:12:34,408 - --- JOB FINISHED SUCCESS: Saved to output_data/clean_data.csv ---
+2026-03-06 20:15:22,728 - --- ETL JOB STARTED ---
+2026-03-06 20:15:22,730 - Successfully read CSV: input_data\raw_sales_data.csv
+2026-03-06 20:15:22,733 - Successfully read JSON: input_data\raw_sales_data.json
+2026-03-06 20:15:22,736 - Dropped 1 rows due to missing price.
+2026-03-06 20:15:22,737 - Data transformation complete.
+2026-03-06 20:15:22,739 - --- JOB FINISHED SUCCESS: Saved to output_data/clean_data.csv ---
